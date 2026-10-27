@@ -1,0 +1,5 @@
+com\tinah\wallet\model\Wallet.class
+com\tinah\wallet\repository\WalletRepository.class
+com\tinah\wallet\WalletServiceApplication.class
+com\tinah\wallet\controller\WalletController.class
+com\tinah\wallet\service\WalletService.class
